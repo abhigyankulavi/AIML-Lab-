@@ -1,0 +1,20 @@
+.hero {
+    background: linear-gradient(180deg, #fff 60%, #0a3052 40%);
+    padding: 50px 20px;
+    text-align: center;
+    color: #0a3052;
+}
+
+.hero .images-grid {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.hero img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+}
