@@ -1,0 +1,25 @@
+.achievements {
+    padding: 40px 20px;
+    background-color: #0a3052;
+    color: white;
+}
+
+.achievements h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.achievements-stats {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.stat-box {
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+    background-color: #123d5e;
+    border-radius: 8px;
+}
