@@ -1,0 +1,14 @@
+.conservation, .collaborators {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.conservation button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #0a3052;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
